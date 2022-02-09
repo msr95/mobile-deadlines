@@ -1,6 +1,5 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
-
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+## Mobile Systems, Networking and Security Conferences Deadlines
+Countdown timers to keep track of some of the top confences in Mobile Computing and Security domains
 
 ## Contributing
 
@@ -8,20 +7,16 @@ Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
 
 Contributions are very welcome!
 
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
+Only the top conferences as listed by popular sources such as CSRankings.org, CCF, Google Scholar are listed here. 
 
-To add or update a deadline:
-- Fork the repository
-- Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
-    + See available timezone strings [here](https://momentjs.com/timezone/).
-- Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
-- Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
-- Send a pull request
+Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
+
+Many thanks to @paperswithcode/ @abhshkdz for creating this initially !!
+
 
 ## Forks & other useful listings
 
-- [geodeadlin.es][3] by @LukasMosser
+- [aideadlin.es][2] by @paperswithcode/ @abhshkdz (Forked from originally)
 - [neuro-deadlines][4] by @tbryn
 - [ai-challenge-deadlines][5] by @dieg0as
 - [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
