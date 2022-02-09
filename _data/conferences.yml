@@ -1,12 +1,12 @@
 ---
-- title: InterSpeech
+- title: Mobicom
   hindex: 100
   year: 2022
   id: interspeech22
-  link: http://www.interspeech2022.org/
-  deadline: '2022-03-21 23:59:59'
-  timezone: UTC+9
-  date: September, 18-22, 2022
-  place: Incheon, South Korea
-  sub: SP
+  link: https://www.sigmobile.org/mobicom/2022/
+  deadline: '2022-03-25 23:59:59'
+  timezone: UTC-7
+  date: October, 1-2, 2022
+  place: Sydney, Australia
+  sub: MS
 
