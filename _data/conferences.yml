@@ -5,7 +5,7 @@
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: '2022-03-25 23:59:59'
   timezone: UTC-7
-  date: October, 1-2, 2022
+  date: October, 2022
   place: Sydney, Australia
   sub: MS
 
@@ -15,7 +15,7 @@
   link: https://www.sigmobile.org/mobisys/2022/
   deadline: '2021-12-20 23:59:59'
   timezone: UTC-12
-  date: June, 25-30, 2022
+  date: June 25-July 1, 2022
   place: Portland, USA
   sub: MS
 
@@ -84,7 +84,7 @@
   year: 2022
   id: ndss22
   link: https://www.ndss-symposium.org/ndss2022/call-for-papers/
-  deadline: '2022-07-23 23:59:59'
+  deadline: '2021-07-23 23:59:59'
   timezone: UTC-12
   date: April 24-28, 2022
   place: San Diego, USA
