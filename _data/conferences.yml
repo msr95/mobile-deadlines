@@ -1,11 +1,33 @@
 ---
 - title: Mobicom
   year: 2022
-  id: mobicom22
+  id: Mobicom22
   link: https://www.sigmobile.org/mobicom/2022/
   deadline: '2022-03-25 23:59:59'
   timezone: UTC-7
   date: October, 1-2, 2022
   place: Sydney, Australia
   sub: MS
+
+- title: Mobisys
+  year: 2022
+  id: Mobisys22
+  link: https://www.sigmobile.org/mobisys/2022/
+  deadline: '2021-12-20 23:59:59'
+  timezone: UTC-12
+  date: June, 25, 2022
+  place: Portland, OR, USA
+  sub: MS
+ 
+ - title: Sensys
+  year: 2022
+  id: Sensys21
+  link: https://www.sigmobile.org/mobisys/2022/
+  deadline: '2021-16-04 23:59:59'
+  timezone: UTC-12
+  date: November, 15-17, 2021
+  place: Coimbra, Portugal
+  sub: MS
+  
+  
 
